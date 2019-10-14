@@ -1,1 +1,1 @@
-This Application is Shows How to Nevigate from appliction to another using  Intent.
+This application is shows how to Nevigate from appliction to another using  Intent.
